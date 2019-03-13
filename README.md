@@ -1,5 +1,4 @@
 # Cryptoloan
-## Overview
 Ever wondered taking advantage of money you have invested in cryptocurrencies? This application provides the solution. The web application which uses cryptocurrencies public APIs and JavaScript. The application uses cryptocurrencies as collateral for the loan provided by the peers and removes intermediaries like bank from the loaning system. 
 
 ## To Run
