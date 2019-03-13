@@ -22,7 +22,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
 
-## Highighted Features
+## Repository Details
 
   * Cryptoloan is used to get loan using BTC as colletaral
   * Cryptoloan is used to get notifications on price alter
