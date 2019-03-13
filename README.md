@@ -6,6 +6,7 @@ Ever wondered taking advantage of money you have invested in cryptocurrencies? T
 To start your Phoenix server:
 
   - Install dependencies with `mix deps.get`
+  - Make changes to env-dev.sh as per your server and subscriptions
   - Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   - Install Node.js dependencies with `cd assets && npm install`
   - Start Phoenix endpoint with `mix phx.server`
